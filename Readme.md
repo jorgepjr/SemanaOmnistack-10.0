@@ -1,0 +1,1 @@
+Treinamento imersivo de desenvolvimento web e mobile oferecido pela Rocketseat utilizando as tecnologias NodeJs, React e React Native, ministrado por Diego Fernandes
